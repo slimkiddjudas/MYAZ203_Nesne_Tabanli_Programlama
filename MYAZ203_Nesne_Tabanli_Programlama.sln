@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta_2_Odev", "Hafta_2_Odev\Hafta_2_Odev.csproj", "{D70A93ED-4FCE-4F89-8CE2-1EE2AEFDB4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta_3_Odev", "Hafta_3_Odev\Hafta_3_Odev.csproj", "{140F0573-FB7F-4E68-A203-08F5A59028CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70A93ED-4FCE-4F89-8CE2-1EE2AEFDB4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70A93ED-4FCE-4F89-8CE2-1EE2AEFDB4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70A93ED-4FCE-4F89-8CE2-1EE2AEFDB4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70A93ED-4FCE-4F89-8CE2-1EE2AEFDB4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140F0573-FB7F-4E68-A203-08F5A59028CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140F0573-FB7F-4E68-A203-08F5A59028CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140F0573-FB7F-4E68-A203-08F5A59028CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140F0573-FB7F-4E68-A203-08F5A59028CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12731CC8-2ED6-463D-AA3A-CCC4B5BB6371}
+	EndGlobalSection
+EndGlobal
